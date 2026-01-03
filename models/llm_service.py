@@ -30,7 +30,7 @@ def infer_intent(notes: str):
         }
     }
 
-    resp = requests.post(OLLAMA_URL, json=payload, timeout=10)
+    resp = requests.post(OLLAMA_URL, json=payload, timeout=200)
     resp.raise_for_status()
 
     output = resp.json()["response"].strip().lower()
@@ -56,7 +56,7 @@ def call_llm(transcript: str, retries: int = 2):
         start = time.time()
         try:
             # Increased timeout for longer transcripts
-            resp = requests.post(OLLAMA_URL, json=payload, timeout=30)
+            resp = requests.post(OLLAMA_URL, json=payload, timeout=200)
             latency = int((time.time() - start) * 1000)
             resp.raise_for_status()
 
