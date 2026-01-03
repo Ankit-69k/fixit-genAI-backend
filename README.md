@@ -76,6 +76,35 @@ http://127.0.0.1:8000/docs
 
 ---
 
+## 🐳 How to Run via Docker
+
+### Build the Image
+
+```bash
+docker build -t fixit-genai-assignment .
+```
+
+---
+
+### Run the Container
+
+Ollama runs on the **host**, so its URL is passed via environment variables.
+
+```bash
+docker run -p 8000:8000 \
+  -e OLLAMA_URL=http://host.docker.internal:11434/api/generate \
+  -e OLLAMA_MODEL=mistral \
+  fixit-genai-assignment
+```
+
+#### Linux / Fedora Alternative
+
+```bash
+docker run --network=host fixit-genai-assignment
+```
+
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -285,35 +314,6 @@ Evaluates sales call quality using an OSS LLM and returns structured QA signals.
     "latency_ms": 842
   }
 }
-```
-
----
-
-## 🐳 How to Run via Docker
-
-### Build the Image
-
-```bash
-docker build -t fixit-genai-assignment .
-```
-
----
-
-### Run the Container
-
-Ollama runs on the **host**, so its URL is passed via environment variables.
-
-```bash
-docker run -p 8000:8000 \
-  -e OLLAMA_URL=http://host.docker.internal:11434/api/generate \
-  -e OLLAMA_MODEL=mistral \
-  fixit-genai-assignment
-```
-
-#### Linux / Fedora Alternative
-
-```bash
-docker run --network=host fixit-genai-assignment
 ```
 
 ---
