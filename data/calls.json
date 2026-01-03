@@ -1,0 +1,177 @@
+[
+  {
+    "call_id": "C001",
+    "lead_id": "L0046",
+    "transcript": "Agent: Hi, following up on the listing you liked.\nBuyer: I want to close fast if price works.\nAgent: We can negotiate.\nBuyer: Good, send details.",
+    "duration_seconds": 142,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C002",
+    "lead_id": "L0033",
+    "transcript": "Agent: Are you looking to buy this month?\nBuyer: Not really, just checking options.\nAgent: Okay, I'll follow up later.",
+    "duration_seconds": 463,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C003",
+    "lead_id": "L0076",
+    "transcript": "Agent: Hi, following up on the listing you liked.\nBuyer: I want to close fast if price works.\nAgent: We can negotiate.\nBuyer: Good, send details.",
+    "duration_seconds": 985,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C004",
+    "lead_id": "L0115",
+    "transcript": "Agent: Hi, following up on the listing you liked.\nBuyer: I want to close fast if price works.\nAgent: We can negotiate.\nBuyer: Good, send details.",
+    "duration_seconds": 953,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C005",
+    "lead_id": "L0092",
+    "transcript": "Agent: This property fits your needs.\nBuyer: Sounds good, let's proceed.\nAgent: I'll share the paperwork.\nBuyer: Perfect.",
+    "duration_seconds": 1626,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C006",
+    "lead_id": "L0131",
+    "transcript": "Agent: This property fits your needs.\nBuyer: Sounds good, let's proceed.\nAgent: I'll share the paperwork.\nBuyer: Perfect.",
+    "duration_seconds": 321,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C007",
+    "lead_id": "L0103",
+    "transcript": "Agent: Hello, calling about your property inquiry.\nBuyer: Yes, but I'm just browsing.\nAgent: No worries, let me know your budget.\nBuyer: Around 3200000.",
+    "duration_seconds": 918,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C008",
+    "lead_id": "L0145",
+    "transcript": "Agent: Are you looking to buy this month?\nBuyer: Not really, just checking options.\nAgent: Okay, I'll follow up later.",
+    "duration_seconds": 725,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C009",
+    "lead_id": "L0073",
+    "transcript": "Agent: This property fits your needs.\nBuyer: Sounds good, let's proceed.\nAgent: I'll share the paperwork.\nBuyer: Perfect.",
+    "duration_seconds": 1447,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C010",
+    "lead_id": "L0027",
+    "transcript": "Agent: This property fits your needs.\nBuyer: Sounds good, let's proceed.\nAgent: I'll share the paperwork.\nBuyer: Perfect.",
+    "duration_seconds": 535,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C011",
+    "lead_id": "L0073",
+    "transcript": "Agent: Hello, calling about your property inquiry.\nBuyer: Yes, but I'm just browsing.\nAgent: No worries, let me know your budget.\nBuyer: Around 6900000.",
+    "duration_seconds": 1285,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C012",
+    "lead_id": "L0012",
+    "transcript": "Agent: Hello, calling about your property inquiry.\nBuyer: Yes, but I'm just browsing.\nAgent: No worries, let me know your budget.\nBuyer: Around 6600000.",
+    "duration_seconds": 737,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C013",
+    "lead_id": "L0043",
+    "transcript": "Agent: This property fits your needs.\nBuyer: Sounds good, let's proceed.\nAgent: I'll share the paperwork.\nBuyer: Perfect.",
+    "duration_seconds": 871,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C014",
+    "lead_id": "L0086",
+    "transcript": "Agent: Hi, following up on the listing you liked.\nBuyer: I want to close fast if price works.\nAgent: We can negotiate.\nBuyer: Good, send details.",
+    "duration_seconds": 379,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C015",
+    "lead_id": "L0038",
+    "transcript": "Agent: Hello, calling about your property inquiry.\nBuyer: Yes, but I'm just browsing.\nAgent: No worries, let me know your budget.\nBuyer: Around 30000000.",
+    "duration_seconds": 1774,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C016",
+    "lead_id": "L0062",
+    "transcript": "Agent: Hello, calling about your property inquiry.\nBuyer: Yes, but I'm just browsing.\nAgent: No worries, let me know your budget.\nBuyer: Around 3500000.",
+    "duration_seconds": 1758,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C017",
+    "lead_id": "L0153",
+    "transcript": "Agent: Are you looking to buy this month?\nBuyer: Not really, just checking options.\nAgent: Okay, I'll follow up later.",
+    "duration_seconds": 449,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C018",
+    "lead_id": "L0004",
+    "transcript": "Agent: Hello, calling about your property inquiry.\nBuyer: Yes, but I'm just browsing.\nAgent: No worries, let me know your budget.\nBuyer: Around 5300000.",
+    "duration_seconds": 290,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C019",
+    "lead_id": "L0154",
+    "transcript": "Agent: Hi, following up on the listing you liked.\nBuyer: I want to close fast if price works.\nAgent: We can negotiate.\nBuyer: Good, send details.",
+    "duration_seconds": 389,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C020",
+    "lead_id": "L0034",
+    "transcript": "Agent: This property fits your needs.\nBuyer: Sounds good, let's proceed.\nAgent: I'll share the paperwork.\nBuyer: Perfect.",
+    "duration_seconds": 1186,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C021",
+    "lead_id": "L0007",
+    "transcript": "Agent: Hello, calling about your property inquiry.\nBuyer: Yes, but I'm just browsing.\nAgent: No worries, let me know your budget.\nBuyer: Around 9000000.",
+    "duration_seconds": 535,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C022",
+    "lead_id": "L0079",
+    "transcript": "Agent: Are you looking to buy this month?\nBuyer: Not really, just checking options.\nAgent: Okay, I'll follow up later.",
+    "duration_seconds": 1544,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C023",
+    "lead_id": "L0075",
+    "transcript": "Agent: Hi, following up on the listing you liked.\nBuyer: I want to close fast if price works.\nAgent: We can negotiate.\nBuyer: Good, send details.",
+    "duration_seconds": 1686,
+    "was_deal_closed": true
+  },
+  {
+    "call_id": "C024",
+    "lead_id": "L0006",
+    "transcript": "Agent: Are you looking to buy this month?\nBuyer: Not really, just checking options.\nAgent: Okay, I'll follow up later.",
+    "duration_seconds": 1341,
+    "was_deal_closed": false
+  },
+  {
+    "call_id": "C025",
+    "lead_id": "L0084",
+    "transcript": "Agent: Hi, following up on the listing you liked.\nBuyer: I want to close fast if price works.\nAgent: We can negotiate.\nBuyer: Good, send details.",
+    "duration_seconds": 705,
+    "was_deal_closed": true
+  }
+]
