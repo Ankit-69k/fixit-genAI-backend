@@ -1,4 +1,4 @@
-# C2. Call Quality Evaluation
+# Call Quality Evaluation
 
 ## Objective
 
