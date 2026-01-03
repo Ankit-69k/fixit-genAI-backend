@@ -1,5 +1,5 @@
 from src.utils.rules import rule_score
-from models.intent_model import infer_intent
+from models.llm_service import infer_intent
 
 def compute_priority(lead):
     score = 0.0

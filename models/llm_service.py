@@ -1,9 +1,17 @@
 import requests
 import time
+import os
 from models.prompts import INTENT_PROMPT, CALL_EVAL_PROMPT
 
-OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL_NAME = "mistral"
+OLLAMA_URL = os.getenv(
+    "OLLAMA_URL",
+    "http://localhost:11434/api/generate"
+)
+
+MODEL_NAME = os.getenv(
+    "MODEL_NAME",
+    "mistral"
+)
 
 INTENT_SCORE = {
     "strong": (0.25, "Strong buying intent in notes"),

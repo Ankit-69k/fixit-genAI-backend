@@ -1,5 +1,5 @@
 import json
-from models.intent_model import call_llm
+from models.llm_service import call_llm
 from src.utils.logger import logger
 
 def evaluate_call(transcript: str):
