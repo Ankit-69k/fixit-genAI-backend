@@ -1,6 +1,6 @@
 # Fixit GenAI Backend Assignment
 
-This repository contains a **FastAPI-based backend** demonstrating how to build **scalable, explainable GenAI-powered APIs** using **open-source LLMs**.
+This repository contains a **FastAPI-based backend** demonstrating **scalable, explainable GenAI-powered APIs** using **open-source LLMs**.
 
 The system exposes two primary capabilities:
 
